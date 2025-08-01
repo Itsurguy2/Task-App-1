@@ -44,7 +44,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
-<img src='' title='Video Walkthrough' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Itsurguy2/Task-App-1/blob/Master/Task%20App%201.gif' title='Video Walkthrough' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
